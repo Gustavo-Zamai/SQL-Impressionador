@@ -1,44 +1,45 @@
-<h1 align="center">SQL Impressionador</h1>
+<h1 align="center">SQL Impressionador (Impressive SQL)</h1>
 
-<p align="center">
- Curso de SQL, utilizando 3 SGBD (MySQL, PostgreSQL, SQL Server), oferecido pela Hashtag Treinamentos.<br/>
+<p align="center"> 
+SQL course, using 3 DBMS (MySQL, PostgreSQL, SQL Server), offered by Hashtag Treinamentos.<br/>
+</p>
+
+<p align="center"> 
+<a href="#-technology">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+<a href="#-course">Course</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+<a href="#-learning">Learning</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+<a href="#-license">License</a>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-curso">Curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 ---
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - SQL
-- SGBD
+- MySQL
 
 ---
-## 💻 Curso
-
-
+## 💻 Course
 
 ---
-## 📑 Aprendizado
+## 📑 Learning
 
-Durante esse curso aprendi: 
-
+During this course I learned:
+- Set a default schema (database)
+- Select all and/or specific columns within a table 
+- Different shortcuts to run codes in MySQL (Ctrl + Shift + Enter) or (Ctrl + Enter)
+- Good practices for writing SQL codes
 
 ---
-## 📝 Licença
+## 📝 License
 
-Esse repositório está sob a licença MIT.
+This repository is under the MIT license.
 
 ---
