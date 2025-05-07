@@ -36,6 +36,9 @@ During this course I learned:
 - Select all and/or specific columns within a table 
 - Different shortcuts to run codes in MySQL (Ctrl + Shift + Enter) or (Ctrl + Enter)
 - Good practices for writing SQL codes
+- Renaming columns and tables using AS
+- Set a limit of return rows from a querie
+- Order by one or many columns
 
 ---
 ## 📝 License
