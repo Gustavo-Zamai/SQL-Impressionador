@@ -39,6 +39,7 @@ During this course I learned:
 - Renaming columns and tables using AS
 - Set a limit of return rows from a querie
 - Order by one or many columns
+- Filter using WHERE with AND, OR, NOT, BETWEEN, IN, NOT IN, IS NULL, IS NOT NULL and LIKE
 
 ---
 ## 📝 License
