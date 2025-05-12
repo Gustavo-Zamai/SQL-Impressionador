@@ -41,6 +41,9 @@ During this course I learned:
 - Order by one or many columns
 - Filter using WHERE with AND, OR, NOT, BETWEEN, IN, NOT IN, IS NULL, IS NOT NULL and LIKE
 - Use functions within SQL and perform calculations between columns
+- Group data from one or more columns
+- Create filters after or before a certain grouping, using HAVING and WHERE
+- 
 
 ---
 ## 📝 License
