@@ -43,7 +43,7 @@ During this course I learned:
 - Use functions within SQL and perform calculations between columns
 - Group data from one or more columns
 - Create filters after or before a certain grouping, using HAVING and WHERE
-- 
+- Use variables and casting them to different data types
 
 ---
 ## 📝 License
